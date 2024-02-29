@@ -88,7 +88,7 @@
     letter-spacing: 1px;
     margin-top: 2%;
 }
-/* ________sec_________ */
+
 .sec{
     width: 80%;
     margin: auto;
@@ -119,7 +119,7 @@
     color: rgb(92,44,10);
     font-size: 50px;
 }
-/* ________-types_______ */
+
 .box{
     flex-basis: 17%;
     margin: 0 30px;
@@ -130,7 +130,7 @@
     color: white;
     padding: 12px 0px;
 }
-/* ___--about________ */
+
 .about{
     background: url(img/pic1.jpg) no-repeat center center/cover;
     height: 45vh;
@@ -145,7 +145,7 @@
     padding: 12px;
     background-color: whitesmoke;
 }
-/* _______comments_______ */
+
 .comments{
     width: 100%;
 }
@@ -164,7 +164,7 @@
     padding: 6px;
     font-size: 20px;
 }
-/* _______contact______ */
+
 .contact{
     background: url(img/pic2.jpg) no-repeat center center/cover;
     width: 100%;
